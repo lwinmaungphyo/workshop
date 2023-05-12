@@ -1,2 +1,3 @@
-# workshop
-Examples of topic sharing in workshop session
+# React - useMemo, useCallback, memo
+
+explanations of useMemo, useCallback react hooks and memo.
